@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Premier Cement Mills Ltd**
 
-- 🌱 I’m currently learning **IOT, Machining Learning , Artificial Intelligent**
+- 🌱 I’m currently learning **IOT, Machining Learning ,Data Science,Artificial Intelligent**
 
 - 📫 How to reach me **alam689@gmail.com**
 
