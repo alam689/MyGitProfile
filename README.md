@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Khorshed Alam</h1>
-<h3 align="center" color="green" id="years-of-service" >ERP Specialist Working Over 14 years</h3>
-<script>
-  const joinDate = new Date('January 1, 2010');
-  const currentDate = new Date();
-  const yearsOfService = currentDate.getFullYear() - joinDate.getFullYear();
-  document.getElementById('years-of-service').textContent = `Years of service: ${yearsOfService}`;
-</script>
+<h3 align="center" color="green">ERP Specialist Working Over 14 years</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alam689&label=Profile%20views&color=0e75b6&style=flat" alt="alam689" /> </p>
 
